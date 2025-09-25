@@ -1,0 +1,4 @@
+mode: api
+thresholds:
+  skill_per_item: 5
+  experience_per_year: 3
